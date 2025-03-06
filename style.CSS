@@ -1,0 +1,95 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+.cont {
+  background-color: hsl(216, 50%, 16%);
+  margin-left: 50d0px;
+  margin-top: 75px;
+  width: 300px;
+  height: 75vh;
+  border-radius: 15px;
+  padding: 20px;
+}
+.img {
+  width: 100%;
+
+  height: 50%;
+  border-radius: 5px;
+}
+.days {
+  color: white;
+}
+
+.equil {
+  color: hsl(215, 27%, 53%);
+  font-family: sans-serif;
+  font-size: medium;
+}
+.head {
+  color: white;
+  font-family: sans-serif;
+  font-size: large;
+}
+.eth {
+  display: flex;
+  color: hsl(178, 100%, 50%);
+}
+.div {
+  /* background-color: red; */
+
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid hsl(216, 26%, 37%);
+  padding-bottom: 20px;
+}
+.igmb {
+  gap: 30px;
+}
+.man {
+  font-family: sans-serif;
+  width: 8%;
+  border: 1px solid white;
+  border-radius: 100%;
+
+  /* margin-bottom: 20px; */
+}
+.name {
+  color: hsl(216, 26%, 37%);
+  font-family: sans-serif;
+  font-size: small;
+}
+.Jules {
+  color: rgb(201, 196, 196);
+  font-family: sans-serif;
+  font-size: small;
+}
+.Jules:hover {
+  color: cyan;
+  cursor: pointer;
+}
+.head:hover {
+  cursor: pointer;
+  color: cyan;
+}
+.img:hover {
+  cursor: pointer;
+  color: cyan;
+}
+
+.priceWrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.dayswrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: hsl(215, 51%, 70%);
+}
+.profilewrapper {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  gap: 10px;
+}

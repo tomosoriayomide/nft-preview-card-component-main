@@ -31,7 +31,7 @@ body {
   font-size: large;
 }
 .eth {
-  display: flex;
+  display: flex;  
   color: hsl(178, 100%, 50%);
 }
 .div {
